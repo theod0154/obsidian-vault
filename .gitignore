@@ -1,0 +1,12 @@
+# Obsidian system files
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/hotkeys.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# temporary
+*.log
